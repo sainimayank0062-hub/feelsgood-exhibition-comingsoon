@@ -128,22 +128,18 @@ const Index = () => {
             <div className="text-center space-y-3 pt-2">
               <h3 className="text-lg font-display font-semibold text-foreground">Visit Us at the Exhibition!</h3>
               <div className="flex flex-col sm:flex-row items-center justify-center gap-3">
-                <a
-                  href="https://maps.google.com/?q=Tula+Ram+Trust+Railway+Road+Hapur"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-flex items-center gap-2 bg-secondary text-secondary-foreground font-body font-bold px-6 py-3 rounded-full shadow-summer hover:opacity-90 transition-all animate-pulse-glow text-sm"
+                <button
+                  className="inline-flex items-center gap-2 bg-secondary text-secondary-foreground font-body font-bold px-6 py-3 rounded-full shadow-summer hover:opacity-90 transition-all animate-pulse-glow text-sm cursor-default"
                 >
                   <MapPin className="w-4 h-4" />
-                  Get Directions to Stall No. 3
-                  <ExternalLink className="w-3.5 h-3.5" />
-                </a>
+                  Stall No. 3 – Tula Ram Trust, Hapur
+                </button>
                 <a
-                  href="tel:9457384881"
+                  href="tel:9625034758"
                   className="inline-flex items-center gap-2 bg-card text-foreground font-body font-semibold px-6 py-3 rounded-full border border-border hover:border-primary/30 transition-all text-sm"
                 >
                   <Phone className="w-4 h-4 text-primary" />
-                  Call: 9457384881
+                  Call: 9625034758
                 </a>
               </div>
             </div>
