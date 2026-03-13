@@ -167,10 +167,10 @@ const Index = () => {
               <span className="font-display text-sm font-semibold text-foreground">FeelsGood Home Decor</span>
             </div>
             <div className="flex items-center gap-3">
-              <a href="#" aria-label="Instagram" className="w-8 h-8 rounded-full bg-muted flex items-center justify-center text-muted-foreground hover:text-primary hover:bg-primary/10 transition-colors">
+              <a href="https://www.instagram.com/feelsgood.co.in_online/" target="_blank" rel="noopener noreferrer" aria-label="Instagram" className="w-8 h-8 rounded-full bg-muted flex items-center justify-center text-muted-foreground hover:text-primary hover:bg-primary/10 transition-colors">
                 <Instagram className="w-4 h-4" />
               </a>
-              <a href="#" aria-label="Facebook" className="w-8 h-8 rounded-full bg-muted flex items-center justify-center text-muted-foreground hover:text-primary hover:bg-primary/10 transition-colors">
+              <a href="https://www.facebook.com/feelsgoodhomedecor" target="_blank" rel="noopener noreferrer" aria-label="Facebook" className="w-8 h-8 rounded-full bg-muted flex items-center justify-center text-muted-foreground hover:text-primary hover:bg-primary/10 transition-colors">
                 <Facebook className="w-4 h-4" />
               </a>
             </div>
